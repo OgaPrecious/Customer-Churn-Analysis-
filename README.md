@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis-
+# Customer-Churn-Analysis
 Customer Churn Analysis project using Excel. Includes data cleaning, churn rate calculations, and an interactive dashboard with insights by geography, gender, tenure, membership, balance, and number of products.
 ## 🏦 Customer Churn Analysis Dashboard
 ## 📌 Project Overview
@@ -56,6 +56,9 @@ Churn by Membership – Not Active customers churn more than Active ones.
 *  Microsoft Excel → Data cleaning, analysis, and visualization.
 *  Pivot Tables & Charts → Aggregating churn data.
 * Conditional Formatting → Highlighting churn trends.
+
+## Screenshot
+![Customer Churn Dashboard](https://github.com/OgaPrecious/Customer-Churn-Analysis-/blob/main/customer%20churn%20dashboard.png)
 
 ## 🚀 How to Use
 
