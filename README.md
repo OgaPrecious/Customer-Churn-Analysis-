@@ -59,12 +59,12 @@ Churn by Membership – Not Active customers churn more than Active ones.
 * Conditional Formatting → Highlighting churn trends.
 
 ## Screenshot
-![Customer Churn Dashboard](https://github.com/OgaPrecious/Customer-Churn-Analysis-/blob/main/customer%20churn%20dashboard.png)
+![Customer Churn Dashboard](https://github.com/OgaPrecious/Customer-Churn-Analysis-/blob/main/customer%20churn%20dash.png)
 
 ## 🚀 How to Use
 
 * Open the Dashboard.xlsx file.
-* Use the slicers (Geography & Membership Status) to filter data dynamically.
+* Use the slicers (Age Group & Balance Category) to filter data dynamically.
 * Explore each chart to understand churn drivers.
 
 ## 📢 Key Insights & Recommendations
