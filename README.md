@@ -1,5 +1,6 @@
 # Customer-Churn-Analysis
 Customer Churn Analysis project using Excel. Includes data cleaning, churn rate calculations, and an interactive dashboard with insights by geography, gender, tenure, membership, balance, and number of products.
+![Customer Churn Analysis](https://github.com/OgaPrecious/Customer-Churn-Analysis-/blob/main/Customer%20churn%20project.xlsx)
 ## 🏦 Customer Churn Analysis Dashboard
 ## 📌 Project Overview
 
